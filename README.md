@@ -2,17 +2,13 @@
 
 This repository main function is to serve as a data dump for all/any code in which I create. The majority of the code dumped here will be produced from complete training courses and side projects.
 
-Current projects:
+###Current projects:
 
 • CakeConnect
 
-Current Training Course:
+###Current Training Course:
 
 • Kirk Byers "Python for Network Engineers"
-
-### Code Example
-
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
 ## Motivation
 
