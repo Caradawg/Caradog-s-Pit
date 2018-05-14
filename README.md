@@ -47,4 +47,6 @@ Caradog - Cake Dawg
 
 ## License
 
-OpenSource - Abuse it as much as you like. 
+OpenSouce
+
+I am not liable for any modification nor malicious intent when using CakeConnect I am also not liable for all/any code produced and used to cause harm or damage to any company, establishment and individuals. All ownership and permissions are passed to each individual who use this code and not the creator, all code is produced for Automation, Research and Training  
