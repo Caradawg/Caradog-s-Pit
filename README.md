@@ -1,4 +1,4 @@
-# Caradog's Pit
+# :fire: Caradog's Pit :fire:
 
 This repositories main function is to serve as a data dump for all/any code in which I create. The majority of the code dumped here will be produced from completing training courses and side projects.
 
