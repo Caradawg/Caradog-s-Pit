@@ -1,14 +1,14 @@
 # Cake Dawg
 
-This repository main function is to serve as a data dump for all/any code in which I create. The majority of the code dumped here will be produced from complete training courses and programs, as it stands this repository currently includes:
+This repository main function is to serve as a data dump for all/any code in which I create. The majority of the code dumped here will be produced from complete training courses and side projects.
 
-• Test 
+Current projects:
 
-Kirk Byers "Python for Network Engineers"
+• CakeConnect
 
-## Synopsis
+Current Training Course:
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+• Kirk Byers "Python for Network Engineers"
 
 ## Code Example
 
