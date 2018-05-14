@@ -49,4 +49,4 @@ Caradog - Cake Dawg
 
 OpenSouce
 
-> I am not liable for any modification nor malicious intent when using CakeConnect I am also not liable for all/any code produced and used to cause harm or damage to any company, establishment and individuals. All ownership and permissions are passed to each individual who use this code and not the creator, all code is produced for Automation, Research and Training  
+> I am not liable for any modification nor malicious intent when using CakeConnect I am also not liable for all/any code produced and used to cause harm or damage to any company, establishment and individuals. All ownership and permissions are passed to each individual who use the code(s) listed within this repository and not the creator, all code is produced for Automation, Research and Training. The  code(s) do not have any intent of causing harm or damage unless modified by an individual.
