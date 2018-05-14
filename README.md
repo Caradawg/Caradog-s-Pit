@@ -33,13 +33,13 @@ CakeConnect is a code injects which can be deployed within the console windows o
 
 Known working browsers:
 
-• Google Chrome
-• Opera
-• Mozilla Firefox
-• Safari
-• Microsoft Edge 
-• Chromium
-• Internet Explorer
+* Google Chrome
+* Opera
+* Mozilla Firefox
+* Safari
+* Microsoft Edge 
+* Chromium
+* Internet Explorer
 
 ## Contributors
 
