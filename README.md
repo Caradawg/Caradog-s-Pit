@@ -1,6 +1,6 @@
 # Cake Dawg
 
-This repository main function is to serve as a data dump for all/any code in which I create. The majority of the code dumped here will be produced from complete training courses and side projects.
+This repositories main function is to serve as a data dump for all/any code in which I create. The majority of the code dumped here will be produced from completing training courses and side projects.
 
 ### Current projects:
 
@@ -10,26 +10,41 @@ This repository main function is to serve as a data dump for all/any code in whi
 
 • Kirk Byers "Python for Network Engineers"
 
-## Motivation
+## CakeConnect
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+CakeConnect serves as an automated linkedin connector. Instead of clicking on numerous profiles manualy CakeConnect automates the process and connects with all suggested profiles within the "My Network" tab of Linkedin. The code is well maintained and will work within all broswers, though with that said the JavaScript was orignally created and tested for Google Chrome, If any error(s) occur then please switch browser. 
 
-## Installation
+## CakeConnect Warning
 
-Provide code examples and explanations of how to get the project.
+Before installing/running CakeConnect, please be aware if you abuse the code enough and spam linkedin servers they will ban you and delete your account. Because of this I would only recommmend running this code for a minimal of 10mins every few days, depending on your PC spec you can expect to send out roughly 210-760 connection requests per cycle. 
 
-## API Reference
+## CakeConnect Installation
 
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+CakeConnect is a code injects which can be deployed within the console windows of any web browser. Below is a brief instruction of how to run the code within Google Chrome:
 
-## Tests
+1) goto linkedin.com and login
+2) navigate to the "My Network" tab at the centre right of the webpage.
+3) once on the "My Network" tab, right click the webpage and select the "Inspect" menu option
+4) a right pannel will open up, now select "Console" within the pannel. This is located at the top of the pannel next to "Elements".
+5) right click and copy the CakeConnect Javascript source (click raw and select all then copy) and paste it within the console
+6) press Enter on your keyboard and watch it auto-connect!
 
-Describe and show how to run the tests with code examples.
+## CakeConnect Compatibility
+
+Known working browsers:
+
+• Google Chrome
+• Opera
+• Mozilla Firefox
+• Safari
+• Microsoft Edge 
+• Chromium
+• Internet Explorer
 
 ## Contributors
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+Caradog - Cake Dawg
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+OpenSource - Abuse it as much as you like. 
