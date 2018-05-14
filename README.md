@@ -1,4 +1,4 @@
-# Cake Dawg
+# Caradog's Pit
 
 This repositories main function is to serve as a data dump for all/any code in which I create. The majority of the code dumped here will be produced from completing training courses and side projects.
 
@@ -22,10 +22,10 @@ Before installing/running CakeConnect, please be aware if you abuse the code eno
 
 CakeConnect is a code injects which can be deployed within the console windows of any web browser. Below is a brief instruction of how to run the code within Google Chrome:
 
-1) goto linkedin.com and login
-2) navigate to the "My Network" tab at the centre right of the webpage.
-3) once on the "My Network" tab, right click the webpage and select the "Inspect" menu option
-4) a right pannel will open up, now select "Console" within the pannel. This is located at the top of the pannel next to "Elements".
+1) Goto linkedin.com and login
+2) Navigate to the "My Network" tab at the centre right of the webpage.
+3) Once on the "My Network" tab, right click the webpage and select the "Inspect" menu option
+4) A pannel on the right will open up, now select "Console" within the pannel. This is located at the top of the pannel.
 5) right click and copy the CakeConnect Javascript source (click raw and select all then copy) and paste it within the console
 6) press Enter on your keyboard and watch it auto-connect!
 
